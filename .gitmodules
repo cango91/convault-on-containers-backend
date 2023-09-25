@@ -1,0 +1,9 @@
+[submodule "authentication"]
+	path = authentication
+	url = https://github.com/cango91/convault-on-containers-auth
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/cango91/convault-on-containers-gateway
+[submodule "socials"]
+	path = socials
+	url = https://github.com/cango91/convault-on-containers-socials
